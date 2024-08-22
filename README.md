@@ -3,9 +3,9 @@ Chatbot_UI Created Using v0.dev
 
 This project is a customizable chatbot user interface built with React, TypeScript, and Tailwind CSS. The UI includes components for chatting, settings configuration, file uploads, and more.
 
-![chat](images/chat.png)
+![chat](chat.png)
 
-![settings](images/settings.png)
+![settings](settings.png)
 
 
 
